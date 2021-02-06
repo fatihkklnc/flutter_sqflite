@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sqflite_ilk/screens/product_list.dart';
+//import 'package:flutter_sqflite_ilk/screens/product_list.dart';
 
 void main() {
   runApp(MyApp());
